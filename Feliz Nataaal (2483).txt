@@ -1,0 +1,15 @@
+#include<stdio.h>
+ 
+int main(){
+  int I , a;
+  scanf("%d", &a);
+ 
+  printf("Feliz nat");
+ 
+  for (I=0; i<a; I++){
+    printf("a");
+  }
+  
+  printf("l!\n");
+  return 0;
+}
